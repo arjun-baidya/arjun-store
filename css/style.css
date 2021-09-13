@@ -5,9 +5,9 @@ body {
 .search-field {
   border: none;
   border-radius: 50px;
-  padding: 5px;
   outline: none;
 }
+
 .search-field:hover {
   outline: none;
   border: none;
@@ -23,7 +23,13 @@ body {
 .search-button {
   padding: 10px 50px;
   border-radius: 25px;
-  margin-left: 20px;
+  margin-left: 22px;
+}
+.btn-details{
+  background-color: #e9905c;
+}
+.btn-cart{
+  background-color: #2abbe8;;
 }
 #all-products {
   display: grid;
@@ -34,6 +40,7 @@ body {
   margin: auto;
   align-items: center;
   justify-content: center;
+  gap: 10px;
 }
 .single-product {
   padding: 10px;
