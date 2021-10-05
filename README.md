@@ -1,4 +1,4 @@
-# arjun-store
+# purno-shop
 It is a store mini website. Used JavaScript and DOM manipulation
 
 
